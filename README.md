@@ -11,6 +11,7 @@ A list of awesome neural symbolic papers.
   - [Proof Generation](#proof-generation)
   - [Automated Theorem Proving](#automated-theorem-proving)
   - [Program Synthesis](#program-synthesis)
+  - [Symbolic Grounding](#symbolic-grounding)
 - [Slides and Talks](#slides-and-talks)
 - [Contribute](#contribute)
 
@@ -45,8 +46,12 @@ Armando Solar-Lezama and Yisong Yue. Foundations and Trends® in Programming Lan
 ### Program Synthesis
 - [Neuro-Symbolic Program Synthesis](https://arxiv.org/abs/1611.01855) by Emilio Parisotto, Abdel-rahman Mohamed, Rishabh Singh, Lihong Li, Dengyong Zhou, Pushmeet Kohli. ICLR 2017.
 
+### Symbolic Grounding
+- [Techniques for Symbol Grounding with SATNet](https://www.cs.mcgill.ca/~xsi/data/neurips21a.pdf) by Sever Topan, David Rolnick, Xujie Si. NeurIPS 2021.
+- [SATNet: Bridging deep learning and logical reasoning using a differentiable satisfiability solver](https://arxiv.org/abs/1905.12149) by Po-Wei Wang, Priya L. Donti, Bryan Wilder, Zico Kolter. ICML 2019.
+
 ## Slides and Talks
-- [Data and Knowledge in Neuro-Symbolic Learning](http://starai.cs.ucla.edu/slides/Siemens22.pdf) by Guy Van den Broeck, 2022
+- [Data and Knowledge in Neuro-Symbolic Learning](http://starai.cs.ucla.edu/slides/Siemens22.pdf) by Guy Van den Broeck, 2022.
 - [Neural (Meta) Program Synthesis](https://uclnlp.github.io/nampi/talk_slides/rishabh-singh-nampi-v2.pdf) by Google Brain, 2018.
 
 ## Contribute
