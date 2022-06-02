@@ -23,15 +23,6 @@ Armando Solar-Lezama and Yisong Yue. Foundations and Trends® in Programming Lan
 
 ### Proof Generation
 - [Code2Inv: A Deep Learning Framework for Program Verification](https://www.cs.mcgill.ca/~xsi/data/cav20.pdf) by Xujie Si, Aaditya Naik, Hanjun Dai, Mayur Naik, Le Song. CAV 2020.
-  <details><summary>abstract</summary>
-  Abstract. We propose a general end-to-end deep learning framework
-  Code2Inv, which takes a verification task and a proof checker as input,
-  and automatically learns a valid proof for the verification task by interacting with the given checker. Code2Inv is parameterized with an embedding   module and a grammar: the former encodes the verification task
-  into numeric vectors while the latter describes the format of solutions
-  Code2Inv should produce. We demonstrate the flexibility of Code2Inv by
-  means of two small-scale yet expressive instances: a loop invariant synthesizer for C programs, and a Constrained Horn Clause (CHC) solver.
-  </details>
-  
   <details><summary>comments</summary>
   Empty.
   </details>
