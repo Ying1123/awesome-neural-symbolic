@@ -46,7 +46,8 @@ Armando Solar-Lezama and Yisong Yue. Foundations and Trends® in Programming Lan
 - [Neuro-Symbolic Program Synthesis](https://arxiv.org/abs/1611.01855) by Emilio Parisotto, Abdel-rahman Mohamed, Rishabh Singh, Lihong Li, Dengyong Zhou, Pushmeet Kohli. ICLR 2017.
 
 ## Slides and Talks
-- [Neural (Meta) Program Synthesis](https://uclnlp.github.io/nampi/talk_slides/rishabh-singh-nampi-v2.pdf) by Google Brain, 2018
+- [Data and Knowledge in Neuro-Symbolic Learning](http://starai.cs.ucla.edu/slides/Siemens22.pdf) by Guy Van den Broeck, 2022
+- [Neural (Meta) Program Synthesis](https://uclnlp.github.io/nampi/talk_slides/rishabh-singh-nampi-v2.pdf) by Google Brain, 2018.
 
 ## Contribute
 We encourage all contributions to this repository. Open an [issue](https://github.com/Ying1123/awesome-neural-symbolic/issues) or send a [pull request](https://github.com/Ying1123/awesome-neural-symbolic/pulls).
