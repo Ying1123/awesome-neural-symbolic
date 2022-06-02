@@ -48,6 +48,7 @@ Armando Solar-Lezama and Yisong Yue. Foundations and Trends® in Programming Lan
 
 ### Symbolic Grounding
 - [Techniques for Symbol Grounding with SATNet](https://www.cs.mcgill.ca/~xsi/data/neurips21a.pdf) by Sever Topan, David Rolnick, Xujie Si. NeurIPS 2021.
+- [Temporal and Object Quantification Networks](http://toqnet.csail.mit.edu/data/papers/2021IJCAI-TOQNet.pdf) by Jiayuan Mao, Zhezheng Luo, Chuang Gan, Joshua B. Tenenbaum, Jiajun Wu, Leslie Pack Kaelbling, Tomer D. Ullman. IJACI 2021.
 - [SATNet: Bridging deep learning and logical reasoning using a differentiable satisfiability solver](https://arxiv.org/abs/1905.12149) by Po-Wei Wang, Priya L. Donti, Bryan Wilder, Zico Kolter. ICML 2019.
 
 ## Slides and Talks
