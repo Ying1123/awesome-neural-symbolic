@@ -4,6 +4,7 @@
 
 A list of awesome neural symbolic papers.
 
+
 ## Contents
 - [Contents](#contents)
 - [Papers](#papers)
@@ -15,11 +16,13 @@ A list of awesome neural symbolic papers.
 - [Slides and Talks](#slides-and-talks)
 - [Contribute](#contribute)
 
+
 ## Papers
 
 ### Survey
 - [Neurosymbolic Programming](https://www.cs.utexas.edu/~swarat/pubs/PGL-049-Plain.pdf) by Swarat Chaudhuri, Kevin Ellis, Oleksandr Polozov, Rishabh Singh,
 Armando Solar-Lezama and Yisong Yue. Foundations and Trends® in Programming Languages 2021.
+- [Neurosymbolic AI: The 3rd Wave](https://arxiv.org/pdf/2012.05876.pdf) by Artur d'Avila Garcez, Luis C. Lamb. 2020.
 
 ### Proof Generation
 - [Code2Inv: A Deep Learning Framework for Program Verification](https://www.cs.mcgill.ca/~xsi/data/cav20.pdf) by Xujie Si, Aaditya Naik, Hanjun Dai, Mayur Naik, Le Song. CAV 2020.
@@ -40,11 +43,14 @@ Armando Solar-Lezama and Yisong Yue. Foundations and Trends® in Programming Lan
 ### Symbolic Grounding
 - [Techniques for Symbol Grounding with SATNet](https://www.cs.mcgill.ca/~xsi/data/neurips21a.pdf) by Sever Topan, David Rolnick, Xujie Si. NeurIPS 2021.
 - [Temporal and Object Quantification Networks](http://toqnet.csail.mit.edu/data/papers/2021IJCAI-TOQNet.pdf) by Jiayuan Mao, Zhezheng Luo, Chuang Gan, Joshua B. Tenenbaum, Jiajun Wu, Leslie Pack Kaelbling, Tomer D. Ullman. IJACI 2021.
+- [Logical Neural Networks](https://arxiv.org/abs/2006.13155) by Ryan Riegel, Alexander Gray, Francois Luus, Naweed Khan, Ndivhuwo Makondo, Ismail Yunus Akhalwaya, Haifeng Qian, Ronald Fagin, Francisco Barahona, Udit Sharma, Shajith Ikbal, Hima Karanam, Sumit Neelam, Ankita Likhyani, Santosh Srivastava. 2020.
 - [SATNet: Bridging deep learning and logical reasoning using a differentiable satisfiability solver](https://arxiv.org/abs/1905.12149) by Po-Wei Wang, Priya L. Donti, Bryan Wilder, Zico Kolter. ICML 2019.
+
 
 ## Slides and Talks
 - [Data and Knowledge in Neuro-Symbolic Learning](http://starai.cs.ucla.edu/slides/Siemens22.pdf) by Guy Van den Broeck, 2022.
 - [Neural (Meta) Program Synthesis](https://uclnlp.github.io/nampi/talk_slides/rishabh-singh-nampi-v2.pdf) by Google Brain, 2018.
+
 
 ## Contribute
 We encourage all contributions to this repository. Open an [issue](https://github.com/Ying1123/awesome-neural-symbolic/issues) or send a [pull request](https://github.com/Ying1123/awesome-neural-symbolic/pulls).
