@@ -38,6 +38,7 @@ Armando Solar-Lezama and Yisong Yue. Foundations and Trends® in Programming Lan
 - [Learning to Reason in Large Theories without Imitation](https://arxiv.org/abs/1905.10501) by Kshitij Bansal, Christian Szegedy, Markus N. Rabe, Sarah M. Loos, Viktor Toman. 
 
 ### Programming
+- [CURE: Code-Aware Neural Machine Translation for Automatic Program Repair](https://arxiv.org/abs/2103.00073) by Nan Jiang, Thibaud Lutellier, Lin Tan. ICSE 2021.
 - [DreamCoder: Growing generalizable, interpretable knowledge with wake-sleep Bayesian program learning](https://arxiv.org/abs/2006.08381) by Kevin Ellis, Catherine Wong, Maxwell Nye, Mathias Sable-Meyer, Luc Cary, Lucas Morales, Luke Hewitt, Armando Solar-Lezama, Joshua B. Tenenbaum. 2020.
 - [Neuro-Symbolic Program Synthesis](https://arxiv.org/abs/1611.01855) by Emilio Parisotto, Abdel-rahman Mohamed, Rishabh Singh, Lihong Li, Dengyong Zhou, Pushmeet Kohli. ICLR 2017.
 
