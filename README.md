@@ -7,6 +7,7 @@ A list of awesome neural symbolic papers.
 
 ## Contents
 - [Contents](#contents)
+- [Projects](#projects)
 - [Papers](#papers)
   - [Survey](#survey)
   - [Proof Generation](#proof-generation)
@@ -16,6 +17,9 @@ A list of awesome neural symbolic papers.
 - [Slides and Talks](#slides-and-talks)
 - [Contribute](#contribute)
 
+
+### Projects
+- [Scallop](https://scallop-lang.github.io/)
 
 ## Papers
 
@@ -45,6 +49,7 @@ Armando Solar-Lezama and Yisong Yue. Foundations and Trends® in Programming Lan
 - [Neuro-Symbolic Program Synthesis](https://arxiv.org/abs/1611.01855) by Emilio Parisotto, Abdel-rahman Mohamed, Rishabh Singh, Lihong Li, Dengyong Zhou, Pushmeet Kohli. ICLR 2017.
 
 ### Symbolic Grounding
+- [Scallop: From Probabilistic Deductive Databases to Scalable Differentiable Reasoning](https://www.cis.upenn.edu/~mhnaik/papers/neurips21.pdf) by Jiani Huang, Ziyang Li, Binghong Chen, Karan Samel, Mayur Naik, Le Song, Xujie Si. NeurIPS 2021.
 - [Techniques for Symbol Grounding with SATNet](https://www.cs.mcgill.ca/~xsi/data/neurips21a.pdf) by Sever Topan, David Rolnick, Xujie Si. NeurIPS 2021.
 - [Temporal and Object Quantification Networks](http://toqnet.csail.mit.edu/data/papers/2021IJCAI-TOQNet.pdf) by Jiayuan Mao, Zhezheng Luo, Chuang Gan, Joshua B. Tenenbaum, Jiajun Wu, Leslie Pack Kaelbling, Tomer D. Ullman. IJACI 2021.
 - [Logical Neural Networks](https://arxiv.org/abs/2006.13155) by Ryan Riegel, Alexander Gray, Francois Luus, Naweed Khan, Ndivhuwo Makondo, Ismail Yunus Akhalwaya, Haifeng Qian, Ronald Fagin, Francisco Barahona, Udit Sharma, Shajith Ikbal, Hima Karanam, Sumit Neelam, Ankita Likhyani, Santosh Srivastava. 2020.
