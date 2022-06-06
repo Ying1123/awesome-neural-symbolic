@@ -11,7 +11,7 @@ A list of awesome neural symbolic papers.
   - [Survey](#survey)
   - [Proof Generation](#proof-generation)
   - [Automated Theorem Proving](#automated-theorem-proving)
-  - [Program Synthesis](#program-synthesis)
+  - [Programming](#programming)
   - [Symbolic Grounding](#symbolic-grounding)
 - [Slides and Talks](#slides-and-talks)
 - [Contribute](#contribute)
@@ -37,7 +37,8 @@ Armando Solar-Lezama and Yisong Yue. Foundations and Trends® in Programming Lan
 - [Learning to Prove Theorems by Learning to Generate Theorems](https://arxiv.org/abs/2002.07019v2) by Mingzhe Wang, Jia Deng. NeurIPS 2020.
 - [Learning to Reason in Large Theories without Imitation](https://arxiv.org/abs/1905.10501) by Kshitij Bansal, Christian Szegedy, Markus N. Rabe, Sarah M. Loos, Viktor Toman. 
 
-### Program Synthesis
+### Programming
+- [DreamCoder: Growing generalizable, interpretable knowledge with wake-sleep Bayesian program learning](https://arxiv.org/abs/2006.08381) by Kevin Ellis, Catherine Wong, Maxwell Nye, Mathias Sable-Meyer, Luc Cary, Lucas Morales, Luke Hewitt, Armando Solar-Lezama, Joshua B. Tenenbaum. 2020.
 - [Neuro-Symbolic Program Synthesis](https://arxiv.org/abs/1611.01855) by Emilio Parisotto, Abdel-rahman Mohamed, Rishabh Singh, Lihong Li, Dengyong Zhou, Pushmeet Kohli. ICLR 2017.
 
 ### Symbolic Grounding
