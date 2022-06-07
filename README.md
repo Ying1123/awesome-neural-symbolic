@@ -38,7 +38,7 @@ Armando Solar-Lezama and Yisong Yue. Foundations and Trends® in Programming Lan
 - [Learning to Reason in Large Theories without Imitation](https://arxiv.org/abs/1905.10501) by Kshitij Bansal, Christian Szegedy, Markus N. Rabe, Sarah M. Loos, Viktor Toman. 
 - [DeepLogic: Towards End-to-End Differentiable Logical Reasoning](https://arxiv.org/abs/1805.07433) by Nuri Cingillioglu, Alessandra Russo. AAAI2019.
   <details><summary>comments</summary>
-  Check whether a logic program entails a given query.
+  Check whether a logic program entails a given query. Does not rely on prior hand-coded structure.
   </details>
 
 ### Programming
