@@ -18,7 +18,7 @@ A list of awesome neural symbolic papers.
 - [Contribute](#contribute)
 
 
-### Projects
+## Projects
 - [Scallop](https://scallop-lang.github.io/)
 
 ## Papers
