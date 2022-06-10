@@ -36,10 +36,12 @@ Armando Solar-Lezama and Yisong Yue. Foundations and Trends® in Programming Lan
 - [Learning Symbolic Rules for Reasoning in Quasi-Natural Language](https://arxiv.org/abs/2111.12038) by Kaiyu Yang, Jia Deng.
 - [Learning to Prove Theorems by Learning to Generate Theorems](https://arxiv.org/abs/2002.07019v2) by Mingzhe Wang, Jia Deng. NeurIPS 2020.
 - [Learning to Reason in Large Theories without Imitation](https://arxiv.org/abs/1905.10501) by Kshitij Bansal, Christian Szegedy, Markus N. Rabe, Sarah M. Loos, Viktor Toman. 
-- [DeepLogic: Towards End-to-End Differentiable Logical Reasoning](https://arxiv.org/abs/1805.07433) by Nuri Cingillioglu, Alessandra Russo. AAAI2019.
+- [DeepLogic: Towards End-to-End Differentiable Logical Reasoning](https://arxiv.org/abs/1805.07433) by Nuri Cingillioglu, Alessandra Russo. AAAI 2019.
   <details><summary>comments</summary>
   Check whether a logic program entails a given query. Does not rely on prior hand-coded structure.
   </details>
+- [Guiding High-Performance SAT Solvers with Unsat-Core Predictions](https://arxiv.org/abs/1903.04671) by Daniel Selsam, Nikolaj Bjørner. SAT 2019.
+- [Learning a SAT Solver from Single-Bit Supervision](https://arxiv.org/abs/1802.03685) by Daniel Selsam, Matthew Lamm, Benedikt Bünz, Percy Liang, Leonardo de Moura, David L. Dill. ICLR 2019.
 
 ### Programming
 - [CURE: Code-Aware Neural Machine Translation for Automatic Program Repair](https://arxiv.org/abs/2103.00073) by Nan Jiang, Thibaud Lutellier, Lin Tan. ICSE 2021.
