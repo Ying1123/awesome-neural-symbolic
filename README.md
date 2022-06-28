@@ -33,6 +33,7 @@ Armando Solar-Lezama and Yisong Yue. Foundations and Trends® in Programming Lan
 - [Learning Loop Invariants for Program Verification](https://proceedings.neurips.cc/paper/2018/file/65b1e92c585fd4c2159d5f33b5030ff2-Paper.pdf) by Xujie Si, Hanjun Dai, Mukund Raghothaman, Mayur Naik, Le Song. NeurIPS 2018.
 
 ### Automated Theorem Proving
+- [Manthan: A Data Driven Approach for Boolean Function Synthesis](https://arxiv.org/pdf/2005.06922.pdf) by Priyanka Golia, Subhajit Roy, Kuldeep S. Meel. CAV 2020.
 - [Learning Symbolic Rules for Reasoning in Quasi-Natural Language](https://arxiv.org/abs/2111.12038) by Kaiyu Yang, Jia Deng.
 - [Learning to Prove Theorems by Learning to Generate Theorems](https://arxiv.org/abs/2002.07019v2) by Mingzhe Wang, Jia Deng. NeurIPS 2020.
 - [Learning to Reason in Large Theories without Imitation](https://arxiv.org/abs/1905.10501) by Kshitij Bansal, Christian Szegedy, Markus N. Rabe, Sarah M. Loos, Viktor Toman. 
