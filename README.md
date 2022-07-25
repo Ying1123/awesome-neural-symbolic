@@ -14,6 +14,7 @@ A list of awesome neural symbolic papers.
   - [Automated Theorem Proving](#automated-theorem-proving)
   - [Programming](#programming)
   - [Symbolic Grounding](#symbolic-grounding)
+  - [Visual Language Reasoning](#visual-language-reasoning)
 - [Slides and Talks](#slides-and-talks)
 - [Contribute](#contribute)
 
@@ -59,7 +60,7 @@ Armando Solar-Lezama and Yisong Yue. Foundations and Trends® in Programming Lan
 - [SATNet: Bridging deep learning and logical reasoning using a differentiable satisfiability solver](https://arxiv.org/abs/1905.12149) by Po-Wei Wang, Priya L. Donti, Bryan Wilder, Zico Kolter. ICML 2019.
 - [Neural Logic Machines](https://arxiv.org/pdf/1904.11694.pdf) by Honghua Dong, Jiayuan Mao, Tian Lin, Chong Wang, Lihong Li, Denny Zhou. ICLR 2019.
 
-### Visual/Language Reasoning
+### Visual Language Reasoning
 - [Composing Neural Learning and Symbolic Reasoning with an Application to Visual Discrimination](http://madhu.cs.illinois.edu/VDP_IJCAI2022.pdf) by Adithya Murali, Atharva Sehgal, Paul Krogmeier and P. Madhusudan. IJCAI 2022.
 - [Grammar-Based Grounded Lexicon Learning](https://papers.nips.cc/paper/2021/hash/4158f6d19559955bae372bb00f6204e4-Abstract.html) by Jiayuan Mao, Freda Shi, Jiajun Wu, Roger Levy, Josh Tenenbaum. NeurIPS 2021.
 - [Visually Grounded Neural Syntax Acquisition](https://arxiv.org/abs/1906.02890) by Haoyue Shi, Jiayuan Mao, Kevin Gimpel, Karen Livescu. ACL 2019 (Best Paper Nomination).
